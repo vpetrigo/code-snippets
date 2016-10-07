@@ -154,16 +154,7 @@ ENV/
 *.dSYM/
 *.su
 
-.gitignore
-.idea/misc.xml
-.idea/modules.xml
-.idea/workspace.xml
-".idea/\320\241odeSnippets.iml"
-### Example user template template
 ### Example user template
 
 # IntelliJ project files
-.idea
-*.iml
-out
-gen
+.idea/
